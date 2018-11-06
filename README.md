@@ -7,7 +7,7 @@
 [Instructions](https://github.com/kikipunk/DragonFight-DataPack/wiki/Installation)
 
 ### Downloads
-Now on curseforge! [https://minecraft.curseforge.com/projects/dragonfight-datapack](https://minecraft.curseforge.com/projects/dragonfight-datapack)
+Now on curseforge! [https://minecraft.curseforge.com/projects/dragon-fight-datapack](https://minecraft.curseforge.com/projects/dragon-fight-datapack)
 
 ### Credit
 By Kikipunk and Daminator4113
